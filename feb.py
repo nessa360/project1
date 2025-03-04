@@ -1,1 +1,3 @@
-print("Cohort 5 for Software Engineering at PLP Academy")
+print('we are learning advanced git and github')
+
+print('its getting hot')
